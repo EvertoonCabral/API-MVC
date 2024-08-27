@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-MVC-ControleContatos", "API-MVC-ControleContatos\API-MVC-ControleContatos.csproj", "{5A85CDBC-A0B7-4402-89C1-F7D2361C0B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A85CDBC-A0B7-4402-89C1-F7D2361C0B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A85CDBC-A0B7-4402-89C1-F7D2361C0B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A85CDBC-A0B7-4402-89C1-F7D2361C0B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A85CDBC-A0B7-4402-89C1-F7D2361C0B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EEFD10-E44D-4706-9C71-5895ADAD65F1}
+	EndGlobalSection
+EndGlobal
